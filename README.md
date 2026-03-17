@@ -1,9 +1,8 @@
-# Number Incrementer App
+# Number Incrementer
 
 A simple React application that displays a number and increments it when a button is clicked.
 
 ## Setup
 
-1.  Clone the repository.
-2.  Install dependencies: `npm install`
-3.  Run the application: `npm start`
+1.  Install dependencies: `npm install`
+2.  Run the application: `npm start`
